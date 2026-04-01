@@ -7,7 +7,7 @@ This project focuses on practicing core CSS layout techniques including Flexbox,
 
 ## 🚀 Live Demo
 
-> _Add your GitHub Pages or deployment link here_
+[▶ View Live](https://anant1307.github.io/YouTube-Clone/youtube.html)
 
 ---
 
